@@ -1,1 +1,1 @@
-console.log('Baek Seoyoung')
+console.log('백서영')
